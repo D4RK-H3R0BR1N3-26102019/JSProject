@@ -1,0 +1,30 @@
+{
+  "name": "JSProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "coffescript": "^0.0.1-security",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "os": "^0.1.2",
+    "shelljs": "^0.8.5",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4RK-H3R0BR1N3-26102019/JSProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4RK-H3R0BR1N3-26102019/JSProject/issues"
+  },
+  "homepage": "https://github.com/D4RK-H3R0BR1N3-26102019/JSProject#readme"
+}
